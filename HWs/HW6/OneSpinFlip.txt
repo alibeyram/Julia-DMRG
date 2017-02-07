@@ -1,0 +1,219 @@
+Initial energy = -95.00000
+Sweeps:
+1  Maxm=20, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=1.0E-07
+2  Maxm=50, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=1.0E-08
+3  Maxm=100, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+4  Maxm=150, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+5  Maxm=200, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+6  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+7  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+8  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+9  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+10  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+11  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+12  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+13  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+14  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+15  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+16  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+17  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+18  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+19  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+20  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+21  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+22  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+23  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+24  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+25  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+26  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+27  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+28  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+29  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+30  Maxm=400, Minm=1, Cutoff=1.0E-10, Niter=2, Noise=0.0E+00
+
+
+    vN Entropy at center bond b=50 = 0.605125409436
+    Eigs at center bond b=50: 0.7728 0.2136 0.0069 0.0028 0.0024 0.0014 
+    Largest m during sweep 1 was 20
+    Largest truncation error: 1.37658e-06
+    Energy after sweep 1 is -136.234351308076
+
+    vN Entropy at center bond b=50 = 0.811316553134
+    Eigs at center bond b=50: 0.5983 0.3750 0.0080 0.0063 0.0059 0.0059 
+    Largest m during sweep 2 was 50
+    Largest truncation error: 1.27524e-07
+    Energy after sweep 2 is -137.538767314949
+
+    vN Entropy at center bond b=50 = 0.845146919790
+    Eigs at center bond b=50: 0.5335 0.4371 0.0078 0.0070 0.0070 0.0069 
+    Largest m during sweep 3 was 100
+    Largest truncation error: 1.29349e-09
+    Energy after sweep 3 is -137.738952592078
+
+    vN Entropy at center bond b=50 = 0.852469784332
+    Eigs at center bond b=50: 0.5067 0.4631 0.0076 0.0073 0.0072 0.0072 
+    Largest m during sweep 4 was 143
+    Largest truncation error: 9.99739e-11
+    Energy after sweep 4 is -137.824648201586
+
+    vN Entropy at center bond b=50 = 0.854740432053
+    Eigs at center bond b=50: 0.4924 0.4771 0.0075 0.0074 0.0074 0.0074 
+    Largest m during sweep 5 was 175
+    Largest truncation error: 9.9864e-11
+    Energy after sweep 5 is -137.882834391678
+
+    vN Entropy at center bond b=50 = 0.855407136016
+    Eigs at center bond b=50: 0.4866 0.4828 0.0074 0.0074 0.0074 0.0074 
+    Largest m during sweep 6 was 191
+    Largest truncation error: 9.9971e-11
+    Energy after sweep 6 is -137.925875221413
+
+    vN Entropy at center bond b=50 = 0.856446108948
+    Eigs at center bond b=50: 0.4851 0.4841 0.0076 0.0075 0.0074 0.0074 
+    Largest m during sweep 7 was 196
+    Largest truncation error: 9.99796e-11
+    Energy after sweep 7 is -137.960022757868
+
+    vN Entropy at center bond b=50 = 0.866938212611
+    Eigs at center bond b=50: 0.4860 0.4811 0.0088 0.0078 0.0073 0.0073 
+    Largest m during sweep 8 was 203
+    Largest truncation error: 9.99803e-11
+    Energy after sweep 8 is -137.990510679157
+
+    vN Entropy at center bond b=50 = 0.855470051098
+    Eigs at center bond b=50: 0.4913 0.4783 0.0082 0.0074 0.0068 0.0067 
+    Largest m during sweep 9 was 199
+    Largest truncation error: 9.99975e-11
+    Energy after sweep 9 is -138.473860513728
+
+    vN Entropy at center bond b=50 = 0.853338653347
+    Eigs at center bond b=50: 0.4863 0.4835 0.0074 0.0073 0.0073 0.0072 
+    Largest m during sweep 10 was 192
+    Largest truncation error: 9.99979e-11
+    Energy after sweep 10 is -138.486662715964
+
+    vN Entropy at center bond b=50 = 0.855349533692
+    Eigs at center bond b=50: 0.4848 0.4846 0.0074 0.0074 0.0074 0.0074 
+    Largest m during sweep 11 was 169
+    Largest truncation error: 9.99488e-11
+    Energy after sweep 11 is -138.494569815092
+
+    vN Entropy at center bond b=50 = 0.856558472111
+    Eigs at center bond b=50: 0.4848 0.4843 0.0076 0.0075 0.0074 0.0074 
+    Largest m during sweep 12 was 243
+    Largest truncation error: 9.99319e-11
+    Energy after sweep 12 is -138.501427105875
+
+    vN Entropy at center bond b=50 = 0.884501831644
+    Eigs at center bond b=50: 0.4844 0.4795 0.0100 0.0083 0.0073 0.0072 0.0017 
+    Largest m during sweep 13 was 216
+    Largest truncation error: 9.99821e-11
+    Energy after sweep 13 is -138.507135728792
+
+    vN Entropy at center bond b=50 = 0.998454020041
+    Eigs at center bond b=50: 0.4746 0.4604 0.0236 0.0177 0.0069 0.0068 0.0052 0.0033 
+    Largest m during sweep 14 was 216
+    Largest truncation error: 9.99955e-11
+    Energy after sweep 14 is -138.512521249307
+
+    vN Entropy at center bond b=50 = 1.121804629967
+    Eigs at center bond b=50: 0.4585 0.4327 0.0473 0.0367 0.0064 0.0063 0.0054 0.0039 
+    Largest m during sweep 15 was 221
+    Largest truncation error: 9.98773e-11
+    Energy after sweep 15 is -138.516310055365
+
+    vN Entropy at center bond b=50 = 1.230214196449
+    Eigs at center bond b=50: 0.4406 0.3989 0.0774 0.0585 0.0058 0.0057 0.0051 0.0038 
+    Largest m during sweep 16 was 249
+    Largest truncation error: 9.98394e-11
+    Energy after sweep 16 is -138.518920473905
+
+    vN Entropy at center bond b=50 = 1.315842347264
+    Eigs at center bond b=50: 0.4229 0.3630 0.1101 0.0796 0.0052 0.0051 0.0047 0.0036 0.0013 0.0013 
+    Largest m during sweep 17 was 238
+    Largest truncation error: 9.99752e-11
+    Energy after sweep 17 is -138.520624478784
+
+    vN Entropy at center bond b=50 = 1.370810038143
+    Eigs at center bond b=50: 0.4098 0.3306 0.1401 0.0953 0.0047 0.0045 0.0044 0.0034 0.0017 0.0017 
+    Largest m during sweep 18 was 248
+    Largest truncation error: 9.99946e-11
+    Energy after sweep 18 is -138.521467613371
+
+    vN Entropy at center bond b=50 = 1.398915308894
+    Eigs at center bond b=50: 0.4025 0.3080 0.1615 0.1042 0.0044 0.0042 0.0041 0.0033 0.0020 0.0019 
+    Largest m during sweep 19 was 220
+    Largest truncation error: 9.9952e-11
+    Energy after sweep 19 is -138.521884396998
+
+    vN Entropy at center bond b=50 = 1.416694575550
+    Eigs at center bond b=50: 0.3973 0.2895 0.1792 0.1102 0.0041 0.0039 0.0039 0.0032 0.0022 0.0021 
+    Largest m during sweep 20 was 194
+    Largest truncation error: 9.99587e-11
+    Energy after sweep 20 is -138.522138964281
+
+    vN Entropy at center bond b=50 = 1.427764169621
+    Eigs at center bond b=50: 0.3939 0.2741 0.1942 0.1141 0.0039 0.0038 0.0036 0.0032 0.0024 0.0022 
+    Largest m during sweep 21 was 198
+    Largest truncation error: 9.99743e-11
+    Energy after sweep 21 is -138.522298839893
+
+    vN Entropy at center bond b=50 = 1.434390065730
+    Eigs at center bond b=50: 0.3917 0.2613 0.2068 0.1165 0.0037 0.0037 0.0034 0.0032 0.0026 0.0022 
+    Largest m during sweep 22 was 232
+    Largest truncation error: 9.99364e-11
+    Energy after sweep 22 is -138.522389911927
+
+    vN Entropy at center bond b=50 = 1.437453252908
+    Eigs at center bond b=50: 0.3907 0.2521 0.2159 0.1176 0.0037 0.0036 0.0033 0.0033 0.0028 0.0022 
+    Largest m during sweep 23 was 226
+    Largest truncation error: 9.99491e-11
+    Energy after sweep 23 is -138.522430351682
+
+    vN Entropy at center bond b=50 = 1.438830435771
+    Eigs at center bond b=50: 0.3903 0.2454 0.2225 0.1181 0.0037 0.0035 0.0033 0.0032 0.0029 0.0022 
+    Largest m during sweep 24 was 205
+    Largest truncation error: 9.99866e-11
+    Energy after sweep 24 is -138.522451432395
+
+    vN Entropy at center bond b=50 = 1.439316589553
+    Eigs at center bond b=50: 0.3902 0.2407 0.2272 0.1182 0.0037 0.0035 0.0034 0.0031 0.0029 0.0022 
+    Largest m during sweep 25 was 205
+    Largest truncation error: 9.99983e-11
+    Energy after sweep 25 is -138.522459965607
+
+    vN Entropy at center bond b=50 = 1.439469565430
+    Eigs at center bond b=50: 0.3902 0.2372 0.2306 0.1183 0.0037 0.0034 0.0034 0.0031 0.0030 0.0022 
+    Largest m during sweep 26 was 208
+    Largest truncation error: 9.99748e-11
+    Energy after sweep 26 is -138.522463169804
+
+    vN Entropy at center bond b=50 = 1.439470328077
+    Eigs at center bond b=50: 0.3903 0.2352 0.2326 0.1183 0.0037 0.0034 0.0034 0.0030 0.0030 0.0022 
+    Largest m during sweep 27 was 201
+    Largest truncation error: 9.99896e-11
+    Energy after sweep 27 is -138.522463858380
+
+    vN Entropy at center bond b=50 = 1.439466026058
+    Eigs at center bond b=50: 0.3903 0.2348 0.2330 0.1183 0.0037 0.0034 0.0034 0.0030 0.0030 0.0022 
+    Largest m during sweep 28 was 162
+    Largest truncation error: 9.99741e-11
+    Energy after sweep 28 is -138.522463953276
+
+    vN Entropy at center bond b=50 = 1.439463678975
+    Eigs at center bond b=50: 0.3903 0.2345 0.2333 0.1183 0.0037 0.0034 0.0034 0.0030 0.0030 0.0022 
+    Largest m during sweep 29 was 156
+    Largest truncation error: 9.99399e-11
+    Energy after sweep 29 is -138.522463989771
+
+    vN Entropy at center bond b=50 = 1.439462106563
+    Eigs at center bond b=50: 0.3903 0.2344 0.2334 0.1183 0.0037 0.0034 0.0034 0.0030 0.0030 0.0022 
+    Largest m during sweep 30 was 153
+    Largest truncation error: 9.99935e-11
+    Energy after sweep 30 is -138.522464005569
+
+Ground State Energy = -138.5224640056
+
+Using overlap = -138.5224640056
+
+Total QN of Ground State = QN(4)

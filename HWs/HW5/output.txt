@@ -1,0 +1,22 @@
+N1 = 50
+N2 = 52
+Starting sweep 5000
+Half 1: Energy per site = -0.4387407084
+Bond dimension at center = 19
+  Half 2: Energy per site = -0.4387407835
+Starting sweep 10000
+Half 1: Energy per site = -0.4391190192
+Bond dimension at center = 26
+  Half 2: Energy per site = -0.4391190370
+Starting sweep 5000
+Half 1: Energy per site = -0.4388899290
+Bond dimension at center = 20
+  Half 2: Energy per site = -0.4388900017
+Starting sweep 10000
+Half 1: Energy per site = -0.4392548166
+Bond dimension at center = 25
+  Half 2: Energy per site = -0.4392548341
+Energy1 = -21.956
+Energy2 = -22.8413
+  Delta E / Delta N = -0.4426497622
+  expected energy per bound Bethe Anzats = -0.4431471806
